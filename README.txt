@@ -13,33 +13,29 @@ Step Two, update the repository
 git pull
 
 
-Step Three, switch to current year branch and confirm your in the correct branch:
+Step Three, enter into your named working directory:
 
-git checkout <year>
-git branch
+EXAMPLE: cd 2017/GavinD/
 
-
-Step Four, enter your named directory:
-
-cd <name>
+cd <year>/<name>/
 
 
-Step Five, move and add Java homework into current directory:
+Step Four, move and add Java homework into current directory:
 
 mv ~/Programming\ Team/Homework/Programming/<homework.class>
 git add <homework.class>
 
 
-Step Six, commit name of homework with the date and time (military):
+Step Five, commit name of homework with the date and time (military):
 
-example: git commit -m "Input, 07/02/2017 06:27"
+EXAMPLE: git commit -m "Input, 07/02/2017 06:27"
 
 git commit -m "<homework>, <date> <time>"
 
 
-Step Seven, push changes:
+Step Six, push changes:
 
-git push origin 2017
+git push origin master
 
 
 
