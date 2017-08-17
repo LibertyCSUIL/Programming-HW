@@ -13,10 +13,12 @@ Step Two, update the repository
 git pull
 
 
-Step Three, enter into your named working directory:
+Step Three, create and enter into your named working directory:
 
-EXAMPLE: cd 2017/GavinD/
+EXAMPLE: mkdir 2017/GavinD/
 
+(don't create the directory if it already exists)
+mkdir <year>/<name>/
 cd <year>/<name>/
 
 
