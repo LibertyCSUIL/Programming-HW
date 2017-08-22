@@ -42,3 +42,5 @@ git push origin master
 
 
 REPEAT EVERY TIME 
+
+(Grades will be posted as <homework>.txt in your named directory)
