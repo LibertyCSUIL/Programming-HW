@@ -25,7 +25,7 @@ cd <year>/<name>/
 Step Four, move and add Java homework into current directory:
 
 mv ~/Programming\ Team/Homework/Programming/<homework.class>
-git add <homework.class>
+git add <homework.jar>
 
 
 Step Five, commit name of homework with the date and time (military):
