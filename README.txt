@@ -4,11 +4,11 @@ HOWTO Submit homework
 Step One, clone and cd into directory:
 
 (don't clone if you've already done so previously)
-git clone git@github.com:LibertyCSUIL/Programming-HW.git
+git clone https://github.com/LibertyCSUIL/Programming-HW.git
 cd ~/Programming\ Team/Github\ repos/Programming-HW/
 
 
-Step Two, update the repository
+Step Two, update the repository:
 
 git pull
 
@@ -22,20 +22,27 @@ mkdir <year>/<name>/
 cd <year>/<name>/
 
 
-Step Four, move and add Java homework into current directory:
+Step Four, copy Java homework into current directory:
 
-mv ~/Programming\ Team/Homework/Programming/<homework.class>
+cp ~/Programming-HW/homework/<homework.java> $PWD
+
+
+Step Five, complete homework and turn it into a .jar file
+
+
+Step Six, add the homework to the repository:
+
 git add <homework.jar>
 
 
-Step Five, commit name of homework with the date and time (military):
+Step Seven, commit the name of the homework with the date and time (military):
 
 EXAMPLE: git commit -m "Input, 07/02/2017 06:27"
 
 git commit -m "<homework>, <date> <time>"
 
 
-Step Six, push changes:
+Step Eight, push changes:
 
 git push origin master
 
@@ -43,4 +50,4 @@ git push origin master
 
 REPEAT EVERY TIME 
 
-(Grades will be posted as <homework>.txt in your named directory)
+(Grades will be posted as <homework>.txt> in your named directory)
