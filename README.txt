@@ -27,17 +27,17 @@ Step Four, copy Java homework into current directory:
 cp ~/Programming-HW/homework/<homework.java> $PWD
 
 
-Step Five, complete homework and turn it into a .jar file
+Step Five, complete homework.
 
 
 Step Six, add the homework to the repository:
 
-git add <homework.jar>
+git add <homework.java>
 
 
-Step Seven, commit the name of the homework with the date and time (military):
+Step Seven, commit the name of the homework with the date and time:
 
-EXAMPLE: git commit -m "Input, 07/02/2017 06:27"
+EXAMPLE: git commit -m "Input, 07/02/2017 06:27PM"
 
 git commit -m "<homework>, <date> <time>"
 
