@@ -1,0 +1,6 @@
+Date of review: 10/4/17 11:34PM
+Graded by: Gavin Deshotel
+
+GRADE: 80
+REASON: Objective stated "Hello, world!" while you printed "Hello world".
+Just a minor mistake.
