@@ -2,7 +2,7 @@
 Programming Homework 1: Output
 
 Objective:
-Write a program that prints out the phrase "Hello, world!".
+Write a program that outputs the phrase "Hello, world!".
 */
 
 public class Output
