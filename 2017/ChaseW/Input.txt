@@ -1,0 +1,6 @@
+Date of review: 11/5/17 4:46PM
+Graded by: Gavin Deshotel
+
+GRADE: 98
+REASON: Using two scanners in this program is unnecessary
+and redundant.
