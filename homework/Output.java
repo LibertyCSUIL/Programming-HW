@@ -1,16 +1,18 @@
 /* 
-Programming Homework 1: Output
+Programmer: 
+
+Programming Homework One: Output
 
 Objective:
-Write a program that outputs the phrase "Hello, world!".
+Write a program that prints out the phrase "Hello, world!".
 */
 
 public class Output
 {
    public static void main(String[] args)
    {
-   
-   
-   
+		
+		
+		
    }
 }

@@ -1,5 +1,7 @@
 /* 
-Programming Homework 2: Input
+Programmer: 
+
+Programming Homework Two: Input
 
 Objective:
 Write a program that takes two numbers from user input
@@ -13,8 +15,8 @@ public class Input
 {
    public static void main (String[] args)
    {
-   
-   
-   
+		
+		
+		
    }
 }
