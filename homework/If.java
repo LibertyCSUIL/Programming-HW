@@ -12,7 +12,7 @@ Requirements:
 Use the password: "cookies" 
 */
 
-import java.util.Scanner
+import java.util.Scanner;
 
 public class If
 {
